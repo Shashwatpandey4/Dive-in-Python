@@ -1,0 +1,4 @@
+DEBUG:root:Add result : 5 + 7 = 12 
+DEBUG:root:Multiply result : 5 + 7 = 35 
+2021-08-09 13:58:34,259 : DEBUG : Add result : 5 + 7 = 12 
+2021-08-09 13:58:34,264 : DEBUG : Multiply result : 5 + 7 = 35 

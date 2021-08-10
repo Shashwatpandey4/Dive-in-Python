@@ -1,0 +1,10 @@
+Logging Categores and levels
+
+1. Debug : detailed information typically of interest only when diagnosing a problem
+2. info : confirms that things are working as expected. 
+3. Warning : An indication that something unexpected has happened or will happen.
+4. Error : Unable to perform the operations
+5. Critical : A serious error, indicating that the program itself may be unable to continue running
+
+
+default logging levels are warning and higher i.e. error and critical
