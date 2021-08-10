@@ -2,3 +2,8 @@ DEBUG:root:Add result : 5 + 7 = 12
 DEBUG:root:Multiply result : 5 + 7 = 35 
 2021-08-09 13:58:34,259 : DEBUG : Add result : 5 + 7 = 12 
 2021-08-09 13:58:34,264 : DEBUG : Multiply result : 5 + 7 = 35 
+2021-08-10 19:50:58,794 : DEBUG : ReLU of 50 : 50
+2021-08-10 19:50:58,794 : DEBUG : Sigmoid of 50 : 1.0
+2021-08-10 19:50:58,794 : DEBUG : Tanh of 50 : 1.0
+2021-08-10 19:51:27,145 : DEBUG : Add result : 5 + 7 = 12 
+2021-08-10 19:51:27,145 : DEBUG : Multiply result : 5 + 7 = 35 

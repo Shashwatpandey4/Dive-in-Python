@@ -1,0 +1,42 @@
+__main__ : INFO : ReLU of 50 : 50
+__main__ : INFO : Sigmoid of 50 : 1.0
+__main__ : INFO : Tanh of 50 : 1.0
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+__main__ : INFO : ReLU of 50 : 50
+__main__ : INFO : Sigmoid of 50 : 1.0
+__main__ : INFO : Tanh of 50 : 1.0
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+__main__ : DEBUG : ReLU of 50 : 50
+__main__ : DEBUG : Sigmoid of 50 : 1.0
+__main__ : DEBUG : Tanh of 50 : 1.0
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+__main__ : ERROR : Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\spandey\OneDrive\Desktop\Python\Logging\log3.py", line 28, in divide
+    result = x/y
+ZeroDivisionError: division by zero
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+__main__ : ERROR : Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\spandey\OneDrive\Desktop\Python\Logging\log3.py", line 35, in divide
+    result = x/y
+ZeroDivisionError: division by zero
+log2 : INFO : ReLU of 50 : 50
+log2 : INFO : Sigmoid of 50 : 1.0
+log2 : INFO : Tanh of 50 : 1.0
+__main__ : ERROR : Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\spandey\OneDrive\Desktop\Python\Logging\log3.py", line 36, in divide
+    result = x/y
+ZeroDivisionError: division by zero
