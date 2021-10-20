@@ -14,4 +14,4 @@ def maxProfit(prices:List[int]) -> int:
     return maxprofit
 
 
-    
+    #sliding window
