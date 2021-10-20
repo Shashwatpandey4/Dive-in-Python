@@ -7,7 +7,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Ha HaHa
 MetaCharacters (Need to be escaped):
 . ^ $ * + ? { } [ ] \ | ( )
-coreyms.com
+demo.com
 321-555-4321
 123.555.1234
 123*555*1234
@@ -18,12 +18,20 @@ Mr Smith
 Ms Davis
 Mrs. Robinson
 Mr. T
+
+
+cat
+rat 
+bat
+mat
+
 '''
 
 sentence = 'Start a sentence and then bring it to an end'
 
-pattern = re.compile(r'start', re.I)
+pattern = re.compile(r'[^b]at')
 
-matches = pattern.search(sentence)
+matches = pattern.finditer(text_to_search)
 
-print(matches)
+for match in matches:
+    print(match)
